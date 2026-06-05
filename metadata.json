@@ -1,0 +1,6 @@
+{
+  "name": "veto_player",
+  "description": "Gelişmiş video oynatıcı, ses çalma, ekolayzır, şarkı sözü ve temel dosya yöneticisi özelliklerine sahip medya uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
